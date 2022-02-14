@@ -11,49 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, Roma Tre University, 2022 (expected)
+   * Thesis: _The multidimensional East model: a multicolour model and a front
+   evolution problem_ (under review)
+* Elite-M.Sc. in Theoretical and Mathematical Physics, Ludwig Maximilian University of Munich, 2018
+   * Thesis: [_Sublinearly reinforced Pólya urns on graphs of bounded degree_]({{base_path}}/theses/master-thesis)
+* B.Sc. in Physics, University of Hamburg, 2016
+   * Thesis: [_Multi-channel Kondo effect in finite lattices_]({{base_path}}/theses/bachelor-thesis)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 02/2017 - 10/2018: Research engineer
+  * Cognostics AG, Pullach, Germany
+  * Duties included: Develop and implement machine learning and regular algorithms in Python.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * German (native)
+  * French (native)
+  * English (fluent)
+  * Japanese (fluent)
+  * Italian (fluent)
+  * Chinese (intermediate)
+* Programming
+  * C and Python
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+{% if site.talks %}
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+{% endif %}
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Extracurricular Activities and Achievements
 ======
-* Currently signed in to 43 different slack teams
+* 04/2018 - 10/2018 Member of local board in German green party
+* 04/2017 - 09/2017 Scholarship holder of the Ebner Stiftung
+* 05/2016 2nd place, Japanese speech contest
+   * Annual Germany wide speech contest held by the Japanese Embassy in Germany
