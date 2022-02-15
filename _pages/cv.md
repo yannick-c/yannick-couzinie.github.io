@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* 02/2017 - 10/2018: Research engineer
+* 02/2017 - 10/2018: Research software engineer
   * Cognostics AG, Pullach, Germany
   * Duties included: Develop and implement machine learning and regular algorithms in Python.
   
@@ -43,7 +43,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-{% if site.talks %}
+{% assign tsize = site.talks | size %}
+{% if tsize != 0 %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
