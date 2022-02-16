@@ -25,8 +25,9 @@ Physics_ and took classes ranging from differential geometry, string theory,
  a renewed interest in mathematical statistical physics and biophysics,
  and it was in a stochastic processes class by Christian Hirsch that I
  found a passion for probability theory. I then started a [Master's
- thesis](/theses/master-thesis) in probability theory with almost no
- theoretical background, but through intensive study managed to produce
+ thesis](/theses/master-thesis) in probability theory with a toy model inspired
+ by biological neural networks. Despite having almost no
+ theoretical background at the beginning, through intensive study, I managed to produce
  a thesis which also resulted
 in a [nice
 paper](/publication/2021-weakly-reinforced-polya-urns-on-countable-networks).
