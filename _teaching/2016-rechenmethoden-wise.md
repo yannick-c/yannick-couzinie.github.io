@@ -9,8 +9,8 @@ location: "Munich, Germany"
 ---
 
 Tutoring for the undergraduate course _Rechnungsmethoden_ in which a nearly
-extensive set of mathematical tools needed for undergraduate theoretical
-physics is discussed in the span of a semester.
+exhaustive set of mathematical tools needed for undergraduate theoretical
+physics is taught in the span of a semester.
 
 Contents
 ======

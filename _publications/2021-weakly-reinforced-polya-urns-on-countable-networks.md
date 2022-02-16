@@ -15,14 +15,15 @@ This paper is the result of my [master thesis](/theses/master-thesis) published 
 Abstract
 ======
 We study the long-time asymptotics of a network of weakly reinforced Pólya
-urns. In this system, which extends the WARM introduced by R. van der Hofstad
-et. al. (2016) to countable networks, the nodes fire at times given by a
+urns. In this system, which extends the WARM introduced by [R. van der Hofstad
+et. al.
+(2016)](https://projecteuclid.org/journals/annals-of-applied-probability/volume-26/issue-4/Strongly-reinforced-P%c3%b3lya-urns-with-graph-based-competition/10.1214/16-AAP1153.full) to countable networks. The nodes fire at times given by a
 Poisson point process. When a node fires, one of the incident edges is selected
-with a probability proportional to its weight raised to a power α<1, and then
-this weight is increased by 1.
+with a probability proportional to its weight raised to a power $$\alpha<1$$, and then
+this weight is increased by $$1$$.
 
-We show that for α<1∕2 on a network of bounded degrees, every edge is
+We show that for $$\alpha<\frac12$$ on a network of bounded degrees, every edge is
 reinforced a positive proportion of time, and that the limiting proportion can
 be interpreted as an equilibrium in a countable network. Moreover, in the
 special case of regular graphs, this homogenization remains valid beyond the
-threshold α=1∕2.
+threshold $$\alpha=\frac12$$.
