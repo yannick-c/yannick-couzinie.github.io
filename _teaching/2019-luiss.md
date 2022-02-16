@@ -2,7 +2,7 @@
 title: "Social Network Analysis"
 collection: teaching
 type: "Tutoring"
-permalink: /teaching/2016-rechenmethoden-wise
+permalink: /teaching/2019-luiss
 venue: "LUISS Guido Carli"
 date: 2019-10-01
 location: "Rome, Italy"
