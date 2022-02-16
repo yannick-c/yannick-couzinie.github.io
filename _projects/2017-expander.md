@@ -1,12 +1,12 @@
 ---
 title: "Expander"
 excerpt: "Python script to expand common contractions in the English language
-([github](https://github.com/yannick-c/expander))."
+([github](https://github.com/yannick-couzinie/expander))."
 date: 2017-05-10
 collection: projects
 ---
 
-[See the source code here](https://github.com/yannick-c/expander)
+[See the source code here](https://github.com/yannick-couzinie/expander)
 
 Part of my work at Cognostics ([see the CV]({{base_path}}/cv/)) involved natural
 language processing. We had spoken input data that we
@@ -31,7 +31,7 @@ in NLTK](https://www.nltk.org/book/ch02.html). These sentences contain no
 contractions, so we take all relevant sentences, contract them and look at the
 resulting POS-tags to see which function in a sentence a certain contraction
 has. This results in a [dictionary that I also
-share](https://github.com/yannick-c/expander/blob/master/disambiguations.yaml)
+share](https://github.com/yannick-couzinie/expander/blob/master/disambiguations.yaml)
 that contains the statistical distribution of expansions based on the
 grammatical role of the contraction as identified by the POS-tagger.
 
