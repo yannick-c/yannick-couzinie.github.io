@@ -48,7 +48,9 @@ During my time in Munich I have also started working for a
 learned the ropes of working in a team in git and writing well documented code.
 Besides implementing machine learning algorithms in, among other things, speech
 recognition, I also devised and implemented more classical algorithms on
-graphs in Python.
+graphs in Python. My biggest project included working with linguists and translating a
+natural language text into a graph structure which is machine-readable and
+analysable.
 
 Part of my duties also included overseeing the open tickets on a backend
 project assigned to me and making sure that the [pep8 coding
