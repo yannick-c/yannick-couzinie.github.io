@@ -33,15 +33,17 @@ above video the edge weights are illustrated by their thickness.
 
 The code
 -----
-The code is written entirely in C11 and uses modern frameworks like [doxygen for
+The code is written entirely in C and uses modern frameworks like [doxygen for
 documentation](https://yannick-couzinie.github.io/glauber_dynamics_c/) and
 [autoconf](https://github.com/yannick-couzinie/glauber_dynamics_c/blob/master/configure.ac)/[make](https://github.com/yannick-couzinie/glauber_dynamics_c/blob/master/Makefile.am) for compiling. Further, [unit tests](https://github.com/yannick-couzinie/glauber_dynamics_c/blob/master/test/test_update_rules.c) are included.
 
 The code is kept deliberately general as the initial idea was to have a single
 code base for myself in which I could implement simulations of the various
-interacting particle systems (IPS) I would encounter during my Ph.D. In the end this
+IPS I would encounter during my Ph.D. In the end this
 has not happened since for the IPS I dealt with in my Ph.D. it was the vertices
 of the graphs that had the interesting states and not the edges. Instead
 of implementing a switch for the output (i.e. graph as in the video above for
 edge-based dynamics and simple matrix without edges for vertex based models)
 I wrote [shorter and simpler scripts in Python](/projects/2022-east) for these cases.
+
+*[IPS]: Interacting particle systems

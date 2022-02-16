@@ -1,5 +1,5 @@
 ---
-title: "Rechenmethoden"
+title: "Mathematical tools for physicists"
 collection: teaching
 type: "Tutoring"
 permalink: /teaching/2016-rechenmethoden-wise
@@ -8,9 +8,10 @@ date: 2016-12-01
 location: "Munich, Germany"
 ---
 
-Tutoring for the undergraduate course _Rechnungsmethoden_ in which a nearly
-exhaustive set of mathematical tools needed for undergraduate theoretical
-physics is taught in the span of a semester.
+Tutoring for the undergraduate course _Mathematical tools for physicists_
+(_Rechnungsmethoden_) in which a nearly exhaustive set of mathematical tools
+needed for undergraduate theoretical physics is taught in the span of a
+semester.
 
 Contents
 ======

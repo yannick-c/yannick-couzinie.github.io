@@ -19,16 +19,15 @@ I started studying _Physics_ in Hamburg in 2013 and found an early passion for
 theoretical physics and in particular cosmology, even if my [Bachelor's
 thesis](/theses/bachelor-thesis) was in condensed matter physics.
 
-I went to Munich for my
-Master's to study _Theoretical and Mathematical Physics_ and took classes
-ranging from differential geometry, string theory, quantum electro dynamics to general
-relativity. While I was getting more and more disillusioned with research in
-this area of theoretical physics, I started to take classes in more diverse
-areas a like biophysics and more advanced condensed matter physics. It was in a
-stochastic processes class by Christian Hirsch that I found a passion for
-probability theory. I then started a [Master's thesis](/theses/master-thesis)
-in probability theory with almost no theoretical background, but through
-intensive study managed to produce a thesis which also resulted
+I went to Munich for my Master's to study _Theoretical and Mathematical
+Physics_ and took classes ranging from differential geometry, string theory,
+ quantum electro dynamics to general relativity. In Munich I also found
+ a renewed interest in mathematical statistical physics and biophysics,
+ and it was in a stochastic processes class by Christian Hirsch that I
+ found a passion for probability theory. I then started a [Master's
+ thesis](/theses/master-thesis) in probability theory with almost no
+ theoretical background, but through intensive study managed to produce
+ a thesis which also resulted
 in a [nice
 paper](/publication/2021-weakly-reinforced-polya-urns-on-countable-networks).
 
@@ -47,8 +46,13 @@ Coding
 During my time in Munich I have also started working for a
 [startup](https://cognostics.de/) in which I
 learned the ropes of working in a team in git and writing well documented code.
-My main tasks revolved around machine learning applications and devising and
-implementing algorithms on graphs.
+Besides implementing machine learning algorithms in, among other things, speech
+recognition, I also devised and implemented more classical algorithms on
+graphs in Python.
+
+Part of my duties also included overseeing the open tickets on a backend
+project assigned to me and making sure that the [pep8 coding
+convention](https://pep8.org/) is respected.
 
 My fascination with the topic of Kinetically constrained models also stems
 from the fact that they lend themselves well to simluation. Some of my coding
@@ -71,13 +75,13 @@ mine. I grew up in a Franco-German family and assimilated the English language
 mostly through the internet and the Italian language during my stay in Rome.
 When I was 18 I started studying Japanese and am currently studying for the
 [Level Pre-1 of the Kanji aptitude
-test](https://en.wikipedia.org/wiki/Kanji_Kentei#Level_Pre-1). Some years ago,
-apparently getting bored with the intricacies of the Japanese language, I have
-also started learning Chinese.
+test](https://en.wikipedia.org/wiki/Kanji_Kentei#Level_Pre-1). My passion for
+Chinese characters and my desire to understand more the origins of the written
+Japanese language finally also led me to pick up studying Mandarin.
 
 Hiking
 -----
 When I am not doing Mathematics, coding or learning languages I love doing
 outdoor sports and in particular hiking. Besides frequent of day-trips in
 whichever region I currently find myself in, I have also completed a 30
-day, 550km trek starting in Austria, going through Italy and ending in Italy.
+day, 550km trek starting in Austria, going through Slovenia and ending in Italy.

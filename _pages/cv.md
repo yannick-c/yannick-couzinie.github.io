@@ -23,8 +23,10 @@ Work experience
 ======
 * 02/2017 - 10/2018: Research software engineer
   * Cognostics AG, Pullach, Germany
-  * Duties included: Develop and implement machine learning and regular algorithms in Python.
-  
+  * Develop and implement machine learning and regular algorithms in Python.
+  * Implement and maintain the [pep8 coding convention](https://pep8.org/) in the repositories.
+  * Keep track of issues and check commits of collaborators on same project.
+
 Skills
 ======
 * Languages
@@ -35,7 +37,8 @@ Skills
   * Italian (fluent)
   * Chinese (intermediate)
 * Programming
-  * C and Python
+  * C (OS-programming, graphviz, autoconfig, doxygen)
+  * Python (numpy, multiprocessing, pandas, tensorflow)
 
 Publications
 ======
