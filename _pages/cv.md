@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Roma Tre University, 2022 (expected)
-   * Thesis: _The multidimensional East model: a multicolour model and a front
-   evolution problem_ (under review)
+* Ph.D in Mathematics, Roma Tre University, 2022
+   * Thesis: [_The multidimensional East model: a multicolour model and a front
+   evolution problem_](/theses/phd-thesis)
 * Elite-M.Sc. in Theoretical and Mathematical Physics, Ludwig Maximilian University of Munich, 2018
    * Thesis: [_Sublinearly reinforced Pólya urns on graphs of bounded degree_]({{base_path}}/theses/master-thesis)
 * B.Sc. in Physics, University of Hamburg, 2016
@@ -63,6 +63,7 @@ Teaching
   
 Extracurricular Activities and Achievements
 ======
+* 12/2019 - 12/2021 Ph.D. representative in the Commissione Paritetica Docenti Studenti
 * 04/2018 - 10/2018 Member of local board in German green party
 * 04/2017 - 09/2017 Scholarship holder of the Ebner Stiftung
 * 05/2016 2nd place, Japanese speech contest

@@ -88,4 +88,4 @@ When I am not doing Mathematics, coding or learning languages I love doing
 outdoor sports and in particular hiking. Besides frequent of day-trips in
 whichever region I currently find myself in, I have also completed a 30 day,
 550km trek with a friend starting in Austria, going through Slovenia
-and ending in Italy (see image).
+and ending in Italy.

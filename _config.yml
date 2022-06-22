@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Yannick Couzinié"
 title_separator          : "-"
 name                     : &name "Yannick Couzinié"
-description              : &description "Ph.D. studen at Roma Tre University"
+description              : &description ""
 url                      : https://yannick-couzinie.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yannick Couzinié"
   avatar           : "profile_pic.jpg"
-  bio              : "Ph.D. student at Roma Tre University"
-  location         : "Rome, Italy"
+  bio              : "Ph.D. in Probability Theory"
+  location         : "Tokyo, Japan"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yannick PERIOD/DOT/ROUND POINT couzinie AT/SNAIL uniroma3 PERIOD/DOT/ROUND POINT it"
+  email            : "yannick PERIOD couzinie AT uniroma3 PERIOD it"
   pubkey           : "r3mail.pub"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

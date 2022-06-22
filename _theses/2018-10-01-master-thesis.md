@@ -9,6 +9,11 @@ degree_name: 'Elite-M.Sc. in Theoretical and Mathematical Physics'
 university_name: 'Ludwig Maximilian University of Munich and Technical University of Munich'
 ---
 
+
+[Download thesis here]({{base_path}}/files/master_thesis_couzinie.pdf)
+
+No presentation slides are available, since it was done on the blackboard.
+
 Abstract
 =====
 
@@ -21,10 +26,6 @@ model, consider the case of sublinear reinforcement. After exploring a sensible
 notion of equilibrium distribution for these dynamics, this thesis shows
 sufficient conditions on the reinforcement rate so that the weights converge to
 the unique equilibrium distribution on infinite graphs of bounded degree.
-
-[Download thesis here]({{base_path}}/files/master_thesis_couzinie.pdf)
-
-No presentation slides are available, since it was done on the blackboard.
 
 
 Recommended citation: Y. Couzinié. <i>"Sublinearly reinforced Pólya urns on graphs of bounded degree"</i>. Master's thesis, Ludwig Maximilian University of Munich, 2018.

@@ -9,6 +9,10 @@ degree_name: B.Sc. in Physics
 university_name: 'University of Hamburg'
 ---
 
+[Download thesis here]({{base_path}}/files/bachelor_thesis_couzinie.pdf)
+
+[Presentation slides here (in German)]({{base_path}}/files/bachelor_thesis_presentation_couzinie.pdf)
+
 Abstract
 =====
 
@@ -22,10 +26,6 @@ control over the distinction between under-, complete and overscreening.
 Numerical calculations on exemplary one-dimensional systems are then evaluated
 and briefly discussed, one of which is a system frequently used to discuss and
 measure overscreening.
-
-[Download thesis here]({{base_path}}/files/bachelor_thesis_couzinie.pdf)
-
-[Presentation slides here (in German)]({{base_path}}/files/bachelor_thesis_presentation_couzinie.pdf)
 
 
 Recommended citation: Y. Couzinié. <i>"Multi-channel Kondo effect in finite lattices"</i>. Bachelor's thesis, University of Hamburg, 2016.
