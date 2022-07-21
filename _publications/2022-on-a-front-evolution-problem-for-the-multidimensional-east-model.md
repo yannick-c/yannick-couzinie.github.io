@@ -3,7 +3,7 @@ title: "On a front evolution problem for the multidimensional East model"
 collection: publications
 permalink: /publication/2022-on-a-front-evolution-problem-for-the-multidimensional-east-model
 excerpt: 'This paper contains the first half of the results of my [Ph.D. thesis](/theses/phd-thesis).'
-date: 2022-01-01
+date: 2022-02-07
 venue: 'Preprint (submitted, under review)'
 paperurl: 'https://arxiv.org/abs/2112.14693'
 ---
