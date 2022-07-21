@@ -29,19 +29,20 @@ Physics_ and took classes ranging from differential geometry, string theory,
  by biological neural networks. Despite having almost no
  theoretical background at the beginning, through intensive study, I managed to produce
  a thesis which also resulted
-in a [nice
+in a [reviewed
 paper](/publication/2021-weakly-reinforced-polya-urns-on-countable-networks).
 
 I finally pursued this direction with a Ph.D. under the supervision of Fabio
 Martinelli in Rome to work on Kinetically constrained models which are a
 mathematical model of glass forming liquids. So in a sense, this Ph.D. closes
 the loop to my Bachelor's by being a probability theory thesis on a condensed
-matter physics inspired subject. The thesis can be seen [here](/theses/phd-thesis).
-The results of my thesis are also available as two standalone papers for the
-two subjects I coverin my thesis. The first half of my thesis is published in [a paper
-with Fabio
+matter physics inspired subject. This resulted in my [Ph.D.
+thesis](/theses/phd-thesis) and two standalone papers for the two subjects I
+coverin my thesis. The first half of my thesis is published in [a paper with
+Fabio
 Martinelli](/publication/2022-on-a-front-evolution-problem-for-the-multidimensional-east-model)
-and the second half is published as [a single author paper](/publication/2022-multicolour-east-model).
+        and the second half is published as [a single author
+        paper](/publication/2022-multicolour-east-model).
 
 Coding
 =====
