@@ -1,5 +1,5 @@
 ---
-title: "The multicolour East model (in preparation)"
+title: "The multicolour East model"
 collection: publications
 permalink: /publication/2022-multicolour-east-model
 excerpt: 'This paper contains the second half of the results of my [Ph.D. thesis](/theses/phd-thesis).'
