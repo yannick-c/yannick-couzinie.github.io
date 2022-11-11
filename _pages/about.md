@@ -18,7 +18,7 @@ I started studying _Physics_ in Hamburg in 2013 and from the beginning was
 mainly interested in theoretical physics. My [Bachelor's
 thesis](/theses/bachelor-thesis) was in condensed matter physics on the Kondo
 effect supervised by [Michael Potthoff](https://www.physik.uni-hamburg.de/en/th1/personen/potthoff-michael/potthoff-michael.html)
-and Mirek H\"{a}nsel.
+and Mirek Hänsel.
 
 I went to Munich for my Master's to study _Theoretical and Mathematical
 Physics_ and took classes ranging from differential geometry, string theory,
