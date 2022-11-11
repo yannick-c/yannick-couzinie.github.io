@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yannick Couzinié"
   avatar           : "profile_pic.jpg"
-  bio              : "Ph.D. in Probability Theory"
+  bio              : "Postdoc in Adiabatic Quantum Computation"
   location         : "Tokyo, Japan"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yannick PERIOD couzinie AT uniroma3 PERIOD it"
-  pubkey           : "r3mail.pub"
+  email            : "(I decided to participate in the aeons-old tradition to obfuscate my e-mail address on my website) yannick ~  PERIOD ~ couzinie ~ AT ~ mailbox ~  PERIOD ~  org"
+  pubkey           : "mailboxorg-public.asc"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

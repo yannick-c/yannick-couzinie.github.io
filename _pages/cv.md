@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 10/2022 - present: Postdoctoral Researcher
+  * Tokyo Institute of Techonology and Quemix Inc., Tokyo, Japan
+  * Research on the theoretical fundamentals of adiabatic quantum computing
+  * Perform simulations to evaluate performance of algorithms
+
+* 02/2017 - 10/2018: Research software engineer
+  * Cognostics AG, Pullach, Germany
+  * Develop and implement machine learning and regular algorithms in Python.
+  * Implement and maintain the [pep8 coding convention](https://pep8.org/) in the repositories.
+  * Keep track of issues and check commits of collaborators on same project.
+
 Education
 ======
 * Ph.D in Mathematics, Roma Tre University, 2022
@@ -19,13 +32,6 @@ Education
 * B.Sc. in Physics, University of Hamburg, 2016
    * Thesis: [_Multi-channel Kondo effect in finite lattices_]({{base_path}}/theses/bachelor-thesis)
 
-Work experience
-======
-* 02/2017 - 10/2018: Research software engineer
-  * Cognostics AG, Pullach, Germany
-  * Develop and implement machine learning and regular algorithms in Python.
-  * Implement and maintain the [pep8 coding convention](https://pep8.org/) in the repositories.
-  * Keep track of issues and check commits of collaborators on same project.
 
 Skills
 ======

@@ -8,41 +8,47 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Mathematics at Roma Tre University in Rome, Italy and am
-waiting for the review results of my thesis to defend it soon. I am an avid
-coder besides being a Mathematician and am looking to combine both these
-aspects into future work.
+I am currently a Postdoc jointly at the Tokyo Institute of Technology and Quemix Inc.
+My research mainly concerns adiabatic quantum computing and its interface with rigorous
+algorithms, probability theory, random matrix theory  and the analysis of simluation results.
 
 Academic history
 =====
-I started studying _Physics_ in Hamburg in 2013 and found an early passion for
-theoretical physics and in particular cosmology, even if my [Bachelor's
-thesis](/theses/bachelor-thesis) was in condensed matter physics.
+I started studying _Physics_ in Hamburg in 2013 and from the beginning was
+mainly interested in theoretical physics. My [Bachelor's
+thesis](/theses/bachelor-thesis) was in condensed matter physics on the Kondo
+effect supervised by [Michael Potthoff](https://www.physik.uni-hamburg.de/en/th1/personen/potthoff-michael/potthoff-michael.html)
+and Mirek H\"{a}nsel.
 
 I went to Munich for my Master's to study _Theoretical and Mathematical
 Physics_ and took classes ranging from differential geometry, string theory,
- quantum electro dynamics to general relativity. In Munich I also found
- a renewed interest in mathematical statistical physics and biophysics,
- and it was in a stochastic processes class by Christian Hirsch that I
- found a passion for probability theory. I then started a [Master's
- thesis](/theses/master-thesis) in probability theory working on a toy model inspired
- by biological neural networks. Despite having almost no
- theoretical background at the beginning, through intensive study, I managed to produce
- a thesis which also resulted
-in a [reviewed
+quantum electro dynamics to general relativity. My main interest was on the
+interface between statistical physics and probability theory. My  [Master's
+thesis](/theses/master-thesis) in probability was supervised by [Martin
+Heydenreich](https://www.mathematik.uni-muenchen.de/~heyden/) and [Christian
+Hirsch](https://christian-hirsch.netlify.app). I worked on a toy model inspired
+by biological neural networks, and the thesis research
+also resulted in a [reviewed
 paper](/publication/2021-weakly-reinforced-polya-urns-on-countable-networks).
 
-I finally pursued this direction with a Ph.D. under the supervision of Fabio
-Martinelli in Rome to work on Kinetically constrained models which are a
-mathematical model of glass forming liquids. So in a sense, this Ph.D. closes
-the loop to my Bachelor's by being a probability theory thesis on a condensed
-matter physics inspired subject. This resulted in my [Ph.D.
-thesis](/theses/phd-thesis) and two standalone papers for the two subjects I
-coverin my thesis. The first half of my thesis is published in [a paper with
-Fabio
+I finally pursued this direction with a Ph.D. under the supervision of [Fabio
+Martinelli](http://www.mat.uniroma3.it/users/martin/) in Rome to work on
+Kinetically constrained models which are a mathematical model of glass forming
+liquids. This resulted in my [Ph.D.  thesis](/theses/phd-thesis) and two standalone papers
+for the two subjects I cover in my thesis. The first half of my thesis is
+published in [a paper with Fabio
 Martinelli](/publication/2022-on-a-front-evolution-problem-for-the-multidimensional-east-model)
-        and the second half is published as [a single author
-        paper](/publication/2022-multicolour-east-model).
+and the second half is published as [a single author
+paper](/publication/2022-multicolour-east-model).
+
+Following my Ph.D. I decided to continue in a more physical research direction
+and started a Postdoctoral research in adiabatic quantum computing under the
+supervision of [Matsushita
+Yu-ichiro](https://www.msl.titech.ac.jp/english/member/profile/ymatsushita_en.html)
+at the Tokyo Institute of Technology.  This research combines both my previous
+experience in simulation coding and theoretical research and I aim to find
+rigorous mathematical results characterizing adiabatic and diabatic transitions
+that can be leveraged to find efficient solutions to optimization problems.
 
 Coding
 =====
@@ -56,19 +62,12 @@ natural language text into a graph structure which is machine-readable and
 analysable.
 
 Part of my duties also included overseeing the open tickets on a backend
-project assigned to me and making sure that the [pep8 coding
-convention](https://pep8.org/) is respected.
+project assigned to me and making sure that coding standards were respected.
 
-My fascination with the topic of Kinetically constrained models also stems
-from the fact that they lend themselves well to simluation. Some of my coding
+Some of my coding
 projects in C and Python are presented in [the projects tab](/projects).
 
 In 2020, during quarantine, I have worked through textbooks on [computing
-systems](https://highered.mheducation.com/sites/0072467509/index.html), [OS
-programming](https://pages.cs.wisc.edu/~remzi/OSTEP/) and I have started to
-work through [exercises](https://pdos.csail.mit.edu/6.828/2020/labs/) on the
-Unix-based xv6 operating system in RISC-V in the hopes of being able to use
-this knowledge in the near future.
 
 Away from keyboard
 =====
@@ -87,7 +86,7 @@ Japanese language finally also led me to pick up studying Mandarin.
 Hiking
 -----
 When I am not doing Mathematics, coding or learning languages I love doing
-outdoor sports and in particular hiking. Besides frequent of day-trips in
-whichever region I currently find myself in, I have also completed a 30 day,
-550km trek with a friend starting in Austria, going through Slovenia
-and ending in Italy.
+badminton outdoor sports and in particular hiking and trekking. Besides
+frequent of day-trips in whichever region I currently find myself in, I have
+also completed a 30 day, 550km trek with a friend starting in Austria, going
+through Slovenia and ending in Italy.
