@@ -9,7 +9,7 @@ location: "Geneva, Switzerland"
 ---
 
 This talk covered the portion of my Ph.D. thesis results concerning the front
-evolution of the East model. [Slides can be found here](/files/2022-presentation-geneva.pdf).
+evolution of the East model. [Slides can be found here](/files/2022_presentation_geneva.pdf).
 
 # Abstract
 In this talk we consider kinetically constrained models (KCM). KCM are Markov
