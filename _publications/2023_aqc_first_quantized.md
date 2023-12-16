@@ -4,7 +4,7 @@ system and the optimal nuclear configuration"
 collection: publications
 permalink: /publication/2023-aqc-first-quantized
 excerpt: 'Do real time evolution on a quantum computer in first quantization
-for adiabatic quantum computation'
+for adiabatic quantum computation.'
 date: 2023-09-07
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/2309.03529'

@@ -3,7 +3,7 @@ title: "Annealing for prediction of grand canonical crystal structures: Efficien
 collection: publications
 permalink: /publication/2023-annealing-prediction-grand-canonical
 excerpt: 'In this research we present an encoding of multi-body interactions
-into HUBOs and first analysis results on annealing machines'
+into HUBOs and first analysis results on annealing machines.'
 date: 2023-07-06
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/2307.03123'
