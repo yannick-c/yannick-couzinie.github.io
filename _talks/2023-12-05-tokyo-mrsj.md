@@ -5,7 +5,7 @@ type: "Poster"
 permalink: /talks/2023-11-14-poster-mrsj
 venue: "Materials Research Society Japan, 33rd Annual Meeting"
 date: 2023-11-14
-location: "Tokyo, Japan"
+location: "Yokohama, Japan"
 ---
 
 This poster presentation covered the main results of my [grand canonical

@@ -5,9 +5,9 @@ var addressPoints = [
     6.1423106290939335
   ],
   [
-    "Tokyo, Japan",
-    35.6821936,
-    139.762221
+    "Yokohama, Japan",
+    35.4443947,
+    139.6367727
   ],
   [
     "Saint-\u00c9tienne-du-Rouvray, France",
