@@ -6,6 +6,7 @@ excerpt: 'This paper contains the second half of the results of my [Ph.D. thesis
 date: 2022-07-21
 venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/2207.09782'
+authors: Yannick Couzinie
 ---
 
 This paper contains the second half of the results of my [Ph.D. thesis](/theses/phd-thesis).

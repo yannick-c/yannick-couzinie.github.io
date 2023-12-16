@@ -6,6 +6,7 @@ excerpt: 'This paper is the result of my [master thesis](/theses/master-thesis) 
 date: 2021-01-01
 venue: 'Electronic Communications in Probability'
 paperurl: 'https://projecteuclid.org/journals/electronic-communications-in-probability/volume-26/issue-none/Weakly-reinforced-P%c3%b3lya-urns-on-countable-networks/10.1214/21-ECP404.full'
+authors: Yannick Couzinie, Christian Hirsch
 ---
 
 This paper is the result of my [master thesis](/theses/master-thesis) published together with my supervisor Christian Hirsch.

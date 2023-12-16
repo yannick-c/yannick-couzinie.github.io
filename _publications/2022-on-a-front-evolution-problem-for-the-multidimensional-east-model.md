@@ -6,6 +6,7 @@ excerpt: 'This paper contains the first half of the results of my [Ph.D. thesis]
 date: 2022-11-05
 venue: 'Electron. J. Probab. 27: 1-30 (2022)'
 paperurl: 'https://doi.org/10.1214/22-ejp870'
+authors: Yannick Couzinie, Fabio Martinelli
 ---
 
 This paper contains the first half of the results of my [Ph.D. thesis](/theses/phd-thesis)
