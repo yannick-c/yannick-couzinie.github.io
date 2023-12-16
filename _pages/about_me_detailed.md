@@ -1,11 +1,11 @@
 ---
-permalink: /about_me/
+permalink: /detailed_intro/
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about_me/
-  - /about_me.html
+  - /detailed_intro/
+  - /detailed_intro.html
 ---
 
 I am currently a Postdoc jointly at the Tokyo Institute of Technology
