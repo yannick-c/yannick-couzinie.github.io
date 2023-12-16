@@ -1,6 +1,6 @@
 ---
 title: "First-quantized adiabatic time evolution for the ground state of a many-electron
-system and the optimal nuclear configuration"
+system and the optimal nuclear configuration*"
 collection: publications
 permalink: /publication/2023-aqc-first-quantized
 excerpt: 'Do real time evolution on a quantum computer in first quantization
