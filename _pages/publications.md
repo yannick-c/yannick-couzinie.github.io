@@ -11,6 +11,9 @@ author_profile: true
   You can also find my articles on <a href="https://arxiv.org/search/math?searchtype=author&query=Couzini%C3%A9%2C+Y">arXiv</a>.
 {% endif %}
 
+Note: This list contains papers I both main-authored and co-authored, check the
+links for the site of the publication to see the full list of authors.
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
