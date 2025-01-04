@@ -12,8 +12,10 @@ redirect_from:
 Work experience
 ======
 * 10/2022 - present: Postdoctoral Researcher
-  * Tokyo Institute of Techonology and Quemix Inc., Tokyo, Japan
-  * Research on the theoretical fundamentals of adiabatic quantum computing
+  * Tokyo Institute of Techonology (~02/2024), University of Tokyo (~03/2024)
+    and Quemix Inc., Tokyo, Japan
+  * Research on applications for quantum annealing and gate based quantum
+  computation
   * Perform simulations to evaluate performance of algorithms
 
 * 02/2017 - 10/2018: Research software engineer
@@ -43,8 +45,9 @@ Skills
   * Italian (fluent)
   * Chinese (intermediate)
 * Programming
-  * C (OS-programming, graphviz, autoconfig, doxygen)
   * Python (numpy, multiprocessing, pandas, tensorflow)
+  * Fortran (Basic scientific computation with the latest standard)
+  * C (OS-programming, graphviz, autoconfig, doxygen)
 
 Publications
 ======
@@ -69,6 +72,8 @@ Teaching
   
 Extracurricular Activities and Achievements
 ======
+* 12/2023 Award for encouragement of young researchers of Materials Society of
+Japan
 * 12/2019 - 12/2021 Ph.D. representative in the Commissione Paritetica Docenti Studenti
 * 04/2018 - 10/2018 Member of local board in German green party
 * 04/2017 - 09/2017 Scholarship holder of the Ebner Stiftung

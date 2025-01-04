@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoc jointly at the Tokyo Institute of Technology
-and Quemix Inc.  My research mainly concerns adiabatic quantum
-computing/machine learning and its interface with materials science.
-This is done by either working directly on quantum computers or by using
-classical simulation.
+I am currently a Postdoc jointly at the University of Tokyo and Quemix Inc. and
+as such a member of the Sustainable Quantum AI consortium.  My research mainly
+concerns algorithms for gate based quantum computation, quantum annealing and
+machine learning techniques at the interface with materials science and
+optimization problems. This is done by either working directly on quantum
+computers or by using classical simulation.

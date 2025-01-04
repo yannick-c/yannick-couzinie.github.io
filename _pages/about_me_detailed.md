@@ -7,11 +7,12 @@ redirect_from:
   - /detailed_intro.html
 ---
 
-I am currently a Postdoc jointly at the Tokyo Institute of Technology
-and Quemix Inc.  My research mainly concerns adiabatic quantum
-computing/machine learning and its interface with materials science.
-This is done by either working directly on quantum computers or by using
-classical simulation.
+I am currently a Postdoc jointly at the University of Tokyo and Quemix Inc. and
+as such a member of the Sustainable Quantum AI consortium.  My research mainly
+concerns algorithms for gate based quantum computation, quantum annealing and
+machine learning techniques at the interface with materials science and
+optimization problems. This is done by either working directly on quantum
+computers or by using classical simulation.
 
 Academic history
 =====
@@ -43,13 +44,13 @@ and the second half is published as [a single author
 paper](/publication/2022-multicolour-east-model).
 
 Following my Ph.D. I decided to continue in a more physical research direction
-and started a Postdoctoral research in adiabatic quantum computing under the
+and started a Postdoctoral research in quantum computing under the
 supervision of [Matsushita
-Yu-ichiro](https://www.msl.titech.ac.jp/english/member/profile/ymatsushita_en.html)
-at the Tokyo Institute of Technology.  This research combines both my previous
-experience in simulation coding and theoretical research and I aim to find
-rigorous mathematical results characterizing adiabatic and diabatic transitions
-that can be leveraged to find efficient solutions to optimization problems.
+Yu-ichiro](https://scholar.google.co.jp/citations?user=8oHWexAAAAAJ&hl=en)
+at the Tokyo Institute of Technology and since March 2024 at the University of
+Tokyo. Our goal is to find quantum algorithms that provide actual real world
+use cases for quantum computers at the interface of optimization problems and
+materials science.
 
 Coding
 =====
