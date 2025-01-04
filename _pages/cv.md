@@ -45,9 +45,10 @@ Skills
   * Italian (fluent)
   * Chinese (intermediate)
 * Programming
-  * Python (numpy, multiprocessing, pandas, tensorflow)
-  * Fortran (Basic scientific computation with the latest standard)
-  * C (OS-programming, graphviz, autoconfig, doxygen)
+  * Python (NumPy, torch, pandas, pep8)
+  * C (OS programming, autoconfig, doxygen)
+  * Fortran (Modern Fortran paradigms, parallel computation)
+
 
 Publications
 ======
