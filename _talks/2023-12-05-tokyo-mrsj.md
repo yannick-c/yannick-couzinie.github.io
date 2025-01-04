@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Annealing for the prediction of grand canonical structures"
 collection: talks
 type: "Poster"
 permalink: /talks/2023-11-14-poster-mrsj
