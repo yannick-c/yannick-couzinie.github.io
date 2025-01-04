@@ -1,12 +1,12 @@
 ---
-title: "Annealing for prediction of grand canonical crystal structures: Efficient implementation of n-body atomic interactions"
+title: "Annealing for prediction of grand canonical crystal structures: Implementation of n-body atomic interactions"
 collection: publications
 permalink: /publication/2023-annealing-prediction-grand-canonical
 excerpt: 'In this research we present an encoding of multi-body interactions
 into HUBOs and first analysis results on annealing machines.'
-date: 2023-07-06
-venue: 'Preprint'
-paperurl: 'https://arxiv.org/abs/2307.03123'
+date: 2024-03-15
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.032416'
 authors: Yannick Couzinie, Yusuke Nishiya, Hirofumi Nishi, Taichi Kosugi, Hidetoshi Nishimori, Yu-ichiro Matsushita
 ---
 

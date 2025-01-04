@@ -5,9 +5,9 @@ collection: publications
 permalink: /publication/2023-aqc-first-quantized
 excerpt: 'Do real time evolution on a quantum computer in first quantization
 for adiabatic quantum computation.'
-date: 2023-09-07
-venue: 'Preprint'
-paperurl: 'https://arxiv.org/abs/2309.03529'
+date: 2024-02-16
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.022423'
 authors: Yusuke Nishiya, Hirofumi Nishi, Yannick Couzinié, Taichi Kosugi, Yu-ichiro Matsushita
 ---
 
