@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * 10/2022 - present: Postdoctoral Researcher
-  * Tokyo Institute of Techonology (~02/2024), University of Tokyo (~03/2024)
+  * Tokyo Institute of Techonology (~02/2024), University of Tokyo (03/2024~)
     and Quemix Inc., Tokyo, Japan
   * Research on applications for quantum annealing and gate based quantum
   computation
