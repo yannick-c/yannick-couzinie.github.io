@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Postdoc jointly at the University of Tokyo and Quemix Inc. and
-as such a member of the [https://sqai.jp](SQAI – Center of Innovation for Sustainable Quantum AI).  My research mainly
+as such a member of the [SQAI – Center of Innovation for Sustainable Quantum AI](https://sqai.jp) consortium.  My research mainly
 concerns algorithms for gate based quantum computation, quantum annealing and
 machine learning techniques at the interface with materials science and
 optimization problems. This is done by either working directly on quantum
