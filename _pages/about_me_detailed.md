@@ -61,14 +61,21 @@ implementing machine learning algorithms in, among other things, speech
 recognition, I also devised and implemented more classical algorithms on
 graphs in Python. My biggest project included working with linguists and
 translating a natural language text into a graph structure which is
-machine-readable and analysable.
-
-Part of my duties also included overseeing the open tickets on a backend
+machine-readable and analysable. Part of my duties also included overseeing the open tickets on a backend
 project assigned to me and making sure that coding standards were
 respected.
 
-Some of my coding projects in C and Python are presented in [the
-projects tab](/projects).
+After my Ph.D. I entered Quemix Inc. (my current affiliation), in which 
+I mainly used Python to implement and execute quantum algorithms using
+simulator or real hardware. To compare with classical benchmarks I have
+also used Fortran to implement scientific simulation software. This has allowed me
+to learn how to schedule projects assigned to me within the time frame of customers and hone
+the skills of producing research paper worth outputs from start to finish.
+
+
+Some of my personal coding projects in C and Python are presented in [the
+projects tab](/projects) and my [github](https://github.com/yannick-couzinie) contains
+other smaller contributions to open software projects.
 
 In 2020, during quarantine, I have worked through textbooks
 OS-programming with the eventual goal of working on the Linux kernel.
